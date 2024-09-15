@@ -7,3 +7,9 @@
 
 ## What I Find Interesting
 What I find particularly interesting about this article is its emphasis on the importance of "fun" in software development, particularly from the perspective of Developer Experience (DX). The idea that developers should enjoy their work while using tools and technologies is often overlooked in the pursuit of productivity and security. However, as the article highlights, when developers enjoy what they do, it fosters innovation, creativity, and efficiency. Kris Jenkins's point about tools enabling a "fast start cadence" resonates strongly, as it underscores the significance of intuitive and flexible development environments that encourage problem-solving without unnecessary friction. Furthermore, the article’s discussion on the concept of "shift-left" emphasizes that while enhancing security and compliance early in the development process is crucial, doing it improperly can stifle creativity and joy. 
+
+## Comments
+
+### Zihan Zheng
+
+Larry Wall once said, there are three great virtues of a programmer; Laziness, Impatience and Hubris. It's pretty interesting to see how programmers keep developing new tools inorder to "be lazy".
