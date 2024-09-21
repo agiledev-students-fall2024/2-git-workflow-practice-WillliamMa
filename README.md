@@ -10,3 +10,6 @@ I think the article emphasis the fun of software development in an interesting p
 
 Rishi:
 I agree that software developement can be fun at times, however if one cannot find a balance between work and life, that would make software developement feel a lot more exhausting.
+
+Zihan Zheng:
+Larry Wall once said, there are three great virtues of a programmer; Laziness, Impatience and Hubris. It's pretty interesting to see how programmers keep developing new tools inorder to "be lazy".
